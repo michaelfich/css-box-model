@@ -1,0 +1,30 @@
+h1 {
+  color: #34495e;
+  font-size: 4em;
+  text-align: center;
+
+  width: 600px;
+
+  padding-top: 50px;
+  padding-right: 75px;
+  padding-bottom: 50px;
+  padding-left: 75px;
+
+  margin-top: 25px;
+  margin-right: auto;
+  margin-bottom: 25px;
+  margin-left: auto;
+
+  border: 10px solid #34495e;
+}
+
+article {
+  background: #f1c40f;
+  width: 710px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+p {
+  padding: 10px 0;
+}
